@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Ram, a frontend engineer from Texas. currently a senior frontend engineer at [TextUs](https://textus.com). Previously frontend engineer at [Stord](https://stord.com/).
+I'm Ram, a frontend engineer from Texas. Currently a senior frontend engineer at [TextUs](https://textus.com). Previously frontend engineer at [Stord](https://stord.com/).
 
 **Currently:**
 
