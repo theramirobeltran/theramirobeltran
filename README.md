@@ -1,12 +1,12 @@
 ### Hi! 👋
 
-I'm Ram, a frontend engineer from Texas. Currently a senior frontend engineer at [TextUs](https://textus.com). Previously frontend engineer at [Stord](https://stord.com/).
+I'm Ram, a Frontend Engineer from Texas. Currently a Lead Frontend Engineer at [Ulta](https://ulta.com). Previously frontend engineer at [meQ](https://mequilibrium.com/).
 
 **Currently:**
 
-* 💼  Helping build out the text messaging SaaS platform at TextUs
-* 🌱  Re-learning about Accessibility
-* 👾  Building a teaching tool to help facilitate learning
+* 💼  Leading development efforts on 2 streams
+* 🎙  Producing a podcast [(We're Not) Saving Babies](https://notsavingbabies.com)
+* 🛠  Co-building [Anvil](https://anvil.sh)
 
 **Ongoing Projects:**
 * So many, where do I begin?
