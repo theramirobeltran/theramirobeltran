@@ -1,10 +1,10 @@
 ### Hi! 👋
 
-I'm Ram, a Frontend Engineer from Texas. Currently a Lead Frontend Engineer at [Ulta](https://ulta.com). Previously frontend engineer at [meQ](https://mequilibrium.com/).
+I'm Ram, a Frontend Engineer from Texas. Currently a Staff Frontend Engineer at [VillageMD](https://villagemedical.com).
 
 **Currently:**
 
-* 💼  Leading development efforts on 2 streams
+* 💼  Building applications in React
 * 🎙  Producing a podcast [(We're Not) Saving Babies](https://notsavingbabies.com)
 * 🛠  Co-building [Anvil](https://anvil.sh)
 
