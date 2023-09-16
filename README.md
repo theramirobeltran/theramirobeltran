@@ -5,6 +5,8 @@ I'm Ram, a Frontend Engineer from Texas. Currently a Staff Frontend Engineer at 
 **Currently:**
 
 * 💼  Building applications in React
+   * [Gifstrip](https://gifstrip.app)
+   * [RubbrDuck](https://rubbrduck.app)
 * 🎙  Producing a podcast [(We're Not) Saving Babies](https://notsavingbabies.com)
 * 🛠  Co-building [Anvil](https://anvil.sh)
 
